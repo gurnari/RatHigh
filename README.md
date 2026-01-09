@@ -1,7 +1,8 @@
 # RatHigh README
 
 Basic syntax highlight for the RAT language made for a project at n7, Toulouse.
-You can Download it here : [VSCode extension](https://marketplace.visualstudio.com/items?itemName=DinoGurnari.RatHigh)
+
+You can download it here : [VSCode extension](https://marketplace.visualstudio.com/items?itemName=DinoGurnari.RatHigh)
 
 ## Release Notes
 
